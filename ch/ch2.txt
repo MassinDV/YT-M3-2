@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | 西洋流行音樂電台 |  |
-https://www.youtube.com/watch?v=8QGN1MZPKHA
+https://stream.zeno.fm/vqzasnxok3vvv
