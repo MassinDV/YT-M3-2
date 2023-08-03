@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC |  治癒音樂、放鬆音樂、輕鬆音樂 |  |
-https://www.youtube.com/watch?v=KwpGjxJZJx8
+https://stream-149.zeno.fm/ulzqlslidhktv
