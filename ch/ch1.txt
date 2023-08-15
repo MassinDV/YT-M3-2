@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | MY好玩 |  |
-https://stream.zeno.fm/rb361kymjhnuv.mp3
+https://stream.zeno.fm/rb361kymjhnuv
