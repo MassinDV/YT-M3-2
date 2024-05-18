@@ -18,7 +18,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=-upyPouRrB8)
+        $(youtube-dl -g https://www.youtube.com/watch?v=o0uu4w5G5oI)
         EOL
     - name: Get abcau.m3u8
       run: |
@@ -27,7 +27,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=W1ilCy6XrmI)
+        $(youtube-dl -g https://www.youtube.com/watch?v=o0uu4w5G5oI)
         EOL
     - name: Get abcus.m3u8
       run: |
@@ -36,7 +36,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=w_Ma8oQLmSM)
+        $(youtube-dl -g https://www.youtube.com/watch?v=o0uu4w5G5oI)
         EOL
     - name: Get africanews.m3u8
       run: |
