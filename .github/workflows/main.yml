@@ -90,7 +90,13 @@ jobs:
           pwd
           chmod +x sh/ch9.sh
           ./sh/ch9.sh
-                
+          
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch11.sh
+          ./sh/ch9.sh
+          
       - name: Main
         run: |
           pwd
