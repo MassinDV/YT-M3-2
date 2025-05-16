@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+BNC | 網路流行音樂電台 |  |
+https://stream-149.zeno.fm/at4g9k3v538uv
